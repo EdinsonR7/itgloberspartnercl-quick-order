@@ -1,0 +1,24 @@
+.contenedor_form {
+  text-align    : center;
+  padding-bottom: 20px;
+}
+
+.div_h2 {
+  text-align: center;
+
+}
+
+.input_text {
+  background-color: azure;
+}
+
+.input_submit {
+  padding-bottom  : 10px;
+  width           : 203px;
+  background-color: red;
+  padding-top     : 10px;
+  color           : aliceblue;
+  font-family     : Montserrat, sans-serif;
+  font-weight     : 800;
+  font-size       : .75rem;
+}
